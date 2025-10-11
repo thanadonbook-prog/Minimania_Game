@@ -4,8 +4,8 @@ D F K L
 
 
 tutorial
-> Click start
-> Play 
+ Click start
+ Play 
 C;
 
 The score not working at the moment, I’m working on it.
