@@ -7,7 +7,6 @@ tutorial
 
 
  Click start
- 
  Play 
 C;
 
