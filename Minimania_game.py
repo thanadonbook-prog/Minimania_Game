@@ -55,8 +55,9 @@ class RhythmGame(QtWidgets.QDialog):
         self.timer_spawn.timeout.connect(self.spawn_notes)
 
         # assets on Desktop
-        self.assets_dir = r"C:\Users\ACER\Desktop\661310061_project_Minimania\Assets"
-        # file names (เปลี่ยนได้ตามไฟล์ของคุณ)
+        self.assets_dir = r"---"
+        # file names (PUT THE ASSETS PATH HERE )
+        #EX  self.assets_dir = r"C:\Users\ACER\project_Minimania\Assets"
         self.effect_files = {
             "Perfect": "perfect.png",
             "Good":    "good.png",
